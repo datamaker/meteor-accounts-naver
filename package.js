@@ -1,8 +1,8 @@
 Package.describe({
-  name: "spectrum:accounts-naver",
+  name: "datamaker:accounts-naver",
   version: '0.0.1',
   summary: 'Login service for Naver',
-  git: 'https://github.com/acidsound/meteor-accounts-naver',
+  git: 'https://github.com/datamaker/meteor-accounts-naver',
   documentation: 'README.md'
 });
 
